@@ -1,0 +1,57 @@
+h1 {
+    color:yellow;
+    font-family:'Indie Flower', cursiv;
+    margin-top:0;
+}
+p {
+    color:black;
+}
+body {
+    font-family:'Titillium Web', sans-serif;
+    background-color:hotpink;
+}
+.sub-section {
+    background-color:green;
+    width: 33%;
+    height:150px;
+    float:left;
+    text-align:left;
+}
+.sub-section img {
+    
+
+    height: 160px;
+    width: 150px;
+}   
+.navigation-bar  {
+        background-color:turquoise;
+        height:70px;
+    }
+.navigation-bar a {
+    color: green;
+    font-size: 30px;
+    background-color:gold;
+    padding:10px
+}
+
+.landing {
+    background-image: url(https://professorlotus.com/Sprites/Marshtomp.gif);
+    background-position:right top;
+    background-size:center;
+    font-size:99px;
+    height:500px;
+    text-align:center;
+    text-shadow: 1px 1px;
+    background-color:blue;
+}
+.work {
+    background-color:blanchedalmond;
+    background-image: url("https://pm1.narvii.com/5850/70e0aa8f7bb3b9d4df0f2ec9b0477ed466ab0c6f_hq.jpg");
+    height:400px;
+}
+.news {
+    background-color:yellow;
+}
+.contat {
+    background-color:greenyellow;
+}
